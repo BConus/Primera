@@ -199,3 +199,12 @@
     background-color: wheat;
     color: black;
 }
+
+.foter{
+    background-color: bisque;
+    color: red;
+}
+
+.foter p{
+    font-size: 25px;
+}
